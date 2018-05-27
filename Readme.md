@@ -1,5 +1,5 @@
 
-#Simple Blockchain Implementation Example
+# Simple Blockchain Implementation Example
 
 A simple demonstration of Blockchain concepts to get familiar with it's implementation.
 
@@ -21,7 +21,7 @@ Concepts demonstrated:
 6. Functionality to calculate the balance of an user from the blockchain
 7. Demonstrating a mini crypto currency examples with transactions and mining rewards
 
-###Video Tutorials Followed:
+### Video Tutorials Followed:
 
 [Creating a blockchain with Javascript (Blockchain, part 1)](https://www.youtube.com/watch?v=zVqczFZr124)  
 [Implementing Proof-of-Work in Javascript (Blockchain, part 2](https://www.youtube.com/watch?v=HneatE69814)  
