@@ -3,12 +3,13 @@
 
 A simple demonstration of Blockchain concepts to get familiar with it's implementation.
 
-To install the required libraries run:
-    `npm install --save 'crypto-js'`
+To install the required libraries run:  
 
-To run the program cd into the Blockchain folder and run:
+    npm install --save 'crypto-js'
 
-    `node main.js`
+To run the program cd into the Blockchain folder and run:  
+
+    node main.js
 
 Concepts demonstrated:
 
@@ -20,11 +21,8 @@ Concepts demonstrated:
 6. Functionality to calculate the balance of an user from the blockchain
 7. Demonstrating a mini crypto currency examples with transactions and mining rewards
 
-Video Tutorials Followed:
+###Video Tutorials Followed:
 
-[Creating a blockchain with Javascript (Blockchain, part 1)
-](https://www.youtube.com/watch?v=zVqczFZr124)
-[Implementing Proof-of-Work in Javascript (Blockchain, part 2
-](https://www.youtube.com/watch?v=HneatE69814)
-[Miner rewards & transactions - Blockchain in Javascript (part 3)
-](https://www.youtube.com/watch?v=fRV6cGXVQ4I)
+[Creating a blockchain with Javascript (Blockchain, part 1)](https://www.youtube.com/watch?v=zVqczFZr124)  
+[Implementing Proof-of-Work in Javascript (Blockchain, part 2](https://www.youtube.com/watch?v=HneatE69814)  
+[Miner rewards & transactions - Blockchain in Javascript (part 3)](https://www.youtube.com/watch?v=fRV6cGXVQ4I)  
